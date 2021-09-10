@@ -1,0 +1,30 @@
+.header{
+    color:#fff;
+    background-color: rgba(35, 104, 216, 0.918);
+    text-align: center;
+    
+}
+.container{
+    border-style: groove;
+    border-color: #6e9ce7;
+    color:#fff;
+background-color: #427edd;
+text-align: center;
+}
+.main{
+    color:#fff;
+    border-style: groove;
+    border-color: #9dbbec;
+    text-align: center;
+    background-color: rgb(7, 119, 104);
+    height: 50px;
+}
+.block_registration{
+    color:#fff;
+    text-align: center;
+}
+.footer{
+    color:#fff;
+    background-color: #427edd;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Magnicur",
+        "price": "25",
+        "clasification": "fungicide"
+    },
+    {
+        "name": "Prima",
+        "price": "50",
+        "clasification": "gerbicide"
+    },
+    {
+        "name": "Koragen",
+        "price": "30",
+        "clasification": "insecticide"
+    }
+]
