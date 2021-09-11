@@ -4,6 +4,9 @@ const { userRoleEnum } = require('../config');
 const { pasService } = require('../services');
 
 const userSchema = new Schema({
+    avatar: {
+        type: String
+    },
     email: {
         type: String,
         required: true,
